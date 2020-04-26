@@ -1,0 +1,15 @@
+current directory: /Users/uchiumi/workspace/yumaloop.github.io/vendor/bundle/ruby/2.5.0/gems/posix-spawn-0.3.13/ext
+/Users/uchiumi/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20200304-24828-1h06udp.rb extconf.rb
+creating Makefile
+
+current directory: /Users/uchiumi/workspace/yumaloop.github.io/vendor/bundle/ruby/2.5.0/gems/posix-spawn-0.3.13/ext
+make "DESTDIR=" clean
+
+current directory: /Users/uchiumi/workspace/yumaloop.github.io/vendor/bundle/ruby/2.5.0/gems/posix-spawn-0.3.13/ext
+make "DESTDIR="
+compiling posix-spawn.c
+linking shared-object posix_spawn_ext.bundle
+
+current directory: /Users/uchiumi/workspace/yumaloop.github.io/vendor/bundle/ruby/2.5.0/gems/posix-spawn-0.3.13/ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 posix_spawn_ext.bundle ./.gem.20200304-24828-1seqzwh

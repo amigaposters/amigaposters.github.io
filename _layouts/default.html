@@ -1,0 +1,68 @@
+---
+---
+<!DOCTYPE html>
+
+<html>
+
+{% include head.html %}
+
+<body class="antialiased hide-extras">
+
+  <!-- data-offcanvas -->
+  <div class="marketing off-canvas-wrap" data-offcanvas>
+    <div class="inner-wrap">
+
+    {% include navbar.html %}
+
+    <!-- header -->
+    <header class="masthead" id='masthead'></header>
+
+    <!-- main-content -->
+    <section id="main-content" role="main" class="scroll-container">
+
+      <!-- script -->
+      <script type="text/javascript">
+        $(function(){
+          $('#menu_item_index').addClass('is_active');
+        });
+      </script>
+
+      <!-- row -->
+      <div class="row">
+        
+        <!-- large-8 -->
+        <div class="large-8 medium-8 columns">
+          <div class="markdown-body home-categories">
+
+            {{ content }}
+
+          </div>
+        </div>
+
+        <!-- large 4 -->
+        <div class="large-4 medium-4 columns">
+          <div class="hide-for-small">
+
+            {% include sidebar.html %}
+
+          </div>
+        </div>
+
+      </div>
+      <!-- row -->
+
+    </section>
+    <!-- section -->
+
+  </div>
+</div>
+
+{% include footer.html %}
+
+{% include scripts.html %}
+
+{% include google-analytics.html %}
+
+</body>
+
+</html>

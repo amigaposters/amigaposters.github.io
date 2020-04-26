@@ -1,0 +1,71 @@
+<!-- Script -->
+
+<script type="text/javascript">
+    var disqus_shortname = 'https-yumaloop-github-io';
+    (function() {
+        var dsq = document.createElement('script');
+        dsq.type = 'text/javascript';
+        dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+
+<script type="text/javascript">
+    var disqus_shortname = 'https-yumaloop-github-io';
+    (function() {
+        var s = document.createElement('script');
+        s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+</script>
+
+<script src="{{"/assets/js/foundation.min.js" | relative_url }}"></script>
+
+<script>
+    $(document).foundation();
+    function fixSidebarHeight() {
+        var w1 = $('.markdown-body').height();
+        var w2 = $('#sidebar').height();
+        if (w1 > w2) {
+            $('#sidebar').height(w1);
+        };
+    }
+    $(function() {
+        fixSidebarHeight();
+    })
+    $(window).load(function() {
+        fixSidebarHeight();
+    });
+</script>
+
+<script type="text/javascript">
+    $(function(){    
+        var mwebii=0;    
+        var mwebChartEleId = 'mweb-chart-ele-';    
+        $('pre>code').each(function(){        
+        mwebii++;        
+        var eleiid = mwebChartEleId+mwebii;        
+        if($(this).hasClass('language-sequence')){            
+            var ele = $(this).addClass('nohighlight').parent();            
+            $('<div id="'+eleiid+'"></div>').insertAfter(ele);            
+            ele.hide();            
+            var diagram = Diagram.parse($(this).text());            
+            diagram.drawSVG(eleiid,{theme: 'simple'});        
+        }else if($(this).hasClass('language-flow')){            
+            var ele = $(this).addClass('nohighlight').parent();            
+            $('<div id="'+eleiid+'"></div>').insertAfter(ele);            
+            ele.hide();
+            var diagram = flowchart.parse($(this).text());            
+            diagram.drawSVG(eleiid);        
+        }    
+        });
+    });
+</script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">MathJax.Hub.Config({TeX: { equationNumbers: { autoNumber: "AMS" } }});</script>
+</script><!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5a5105188906fe47"></script>

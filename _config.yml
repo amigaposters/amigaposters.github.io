@@ -1,0 +1,32 @@
+title: Amiga Posters & Artwork
+description: >
+  When computing was fun!
+baseurl: ""
+url: "http://amigaposters.github.io"
+
+author:
+  name: Vasilis Psomiadis
+  email: vpsomiadis@-AT-@gmail.com
+  github: amigaposters
+  twitter: vaspsomiadis
+  facebook: vasilis.psomiadis
+  linkedin: vasileios-psomiadis-748129167
+
+text:
+  sidebar_msg: Enjoy original and recreated posters & artwork of the Commodore Amiga era by Vasilis Psomiadis
+
+collections:
+  diary:
+    output: true
+    permalink: /diary/:name
+
+paginate: 5
+paginate_path: page:num
+
+sass:
+  style: expanded
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+

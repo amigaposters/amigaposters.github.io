@@ -1,0 +1,26 @@
+<!-- navigation bar -->
+<nav class="top-bar docs-bar hide-for-small" data-topbar>
+    <section class="top-bar-section">
+      <div class="row">
+        <div style="position: relative;width:100%;">
+          <div style="position: absolute; width:100%;">
+            <ul id="main-menu" class="left">
+              <li><a target="_self" href="{{"/" | relative_url }}">The Artwork</a></li>
+              <li><a target="_self" href="{{"/amigafamily/" | relative_url }}">The Amiga Family</a></li>
+              <li><a target="_self" href="{{"/about/" | relative_url }}">About</a></li>
+              <li><a target="_self" href="{{"/donate/" | relative_url }}">Donate!</a></li>
+              <li><a target="_self" href="{{"/contact/" | relative_url }}">Contact</a></li>
+            </ul>
+            <ul class="right" id="search-wrap">
+              <li>
+              <form target="_blank" onsubmit="return before_search();" action="https://google.com/search" method="get">
+              <input type="hidden" id="search_q" name="q" value="" />
+              <input tabindex="1" type="search" id="search_input"  placeholder="Search"/>
+              </form>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+  </nav>

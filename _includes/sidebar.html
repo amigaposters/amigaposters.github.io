@@ -1,0 +1,41 @@
+<!-- site bar -->
+<div id="sidebar" class="sidebar">
+  <div id="site-info" class="site-info">
+    <div class="site-a-logo"><img src="{{"/assets/img/icon.gif" | relative_url }}"></div>
+    <h1><a href="{{ "/about" | site.url }}">{{ site.author.name }}</a></h1>
+    <div class="site-des"><p style="text-align: left">{{ site.text.sidebar_msg }}</p></div>
+    <div class="social"> 
+      <a target="_blank" class="facebook" href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">Facebook</a>
+      <a target="_blank" class="twitter" target="_blank" href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">Twitter</a>
+      <a target="_blank" class="github" target="_blank" href="https://github.com/{{ site.author.github }}" title="GitHub">GitHub</a>
+      <a target="_blank" class="email" href="mailto:{{ site.author.email }}" title="Email">Email</a>
+      <a target="_blank" class="linkedin" target="_blank" href="https://linkedin.com/in/{{ site.author.linkedin }}" title="LinkedIn">LinkedIn</a>
+      <!-- <a target="_blank" class="rss" href="atom.xml" title="RSS">RSS</a> --></div>
+  </div>
+  <div id="site-categories" class="side-item ">
+    <div class="side-header">
+      <h2>Categories</h2>
+    </div>
+    <div class="side-content">
+      <p class="cat-list">
+        {% for category in site.categories %}
+        {% capture category_name %}{{ category | first }}{% endcapture %}
+          <a href="{{ "/categories/" | relative_url }}#{{ category_name }}"><strong>{{ category_name }}</strong></a>
+        {% endfor %}
+      </p>
+    </div>
+  </div>
+  <div id="site-categories" class="side-item">
+    <div class="side-header">
+      <h2>Recent Posts</h2>
+    </div>
+    <div class="side-content">
+      <ul class="posts-list">
+        {% for post in site.posts limit:7 %}
+        <li class="post"> <a href="{{ post.url | relative_url }}">{{ post.title }}</a> </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
+<!-- sidebar -->

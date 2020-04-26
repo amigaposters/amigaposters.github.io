@@ -1,0 +1,68 @@
+---
+---
+<!DOCTYPE html>
+
+<html>
+
+{% include head.html %}
+
+<body class="antialiased hide-extras">
+
+  <!-- data-offcanvas -->
+  <div class="marketing off-canvas-wrap" data-offcanvas>
+    <div class="inner-wrap">
+
+    {% include navbar.html %}
+
+    <!-- header -->
+    <header class="donatehead" id='donatehead'></header>
+
+    <!-- main-content -->
+    <section id="main-content" role="main" class="scroll-container">
+
+      <!-- script -->
+      <script type="text/javascript">
+        $(function(){
+          $('#menu_item_index').addClass('is_active');
+        });
+      </script>
+
+      <!-- row -->
+      <div class="row">
+
+        <div class="markdown-body">
+                
+          <!-- article -->
+          <div class="article">
+            <h1>{{ page.title }}</h1>
+            <!-- 
+            <div class="read-more clearfix">
+              <span>{{ page.description }}</span> 
+            </div>
+            -->
+            <span>{{ page.description }}</span> 
+          </div>
+          <br>
+          <!-- article-content -->
+          <div class="article-content">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+      <!-- row -->
+
+    </section>
+    <!-- section -->
+
+  </div>
+</div>
+
+{% include footer.html %}
+
+{% include scripts.html %}
+
+{% include google-analytics.html %}
+
+</body>
+
+</html>
