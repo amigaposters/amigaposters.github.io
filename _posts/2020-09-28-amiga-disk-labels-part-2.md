@@ -2,7 +2,7 @@
 layout: post
 title: Amiga disk labels - Part 2
 lang: en
-categories: [Amiga 500, Amiga 2000, Own Creation, Labels]
+categories: [Amiga 500, Amiga 1000, Amiga 2000, Own Creation, Labels]
 tags: []
 ---
 I thought it would be nice to recreate some additional system disk labels that Commodore bundled with various Amiga models.
