@@ -13,3 +13,5 @@ Winter Nights is a nostalgic trip back to that memories. It uses the PAL high-re
 <br><br>
 <img src="\assets\img\pixelart\amiga-pixelart-winternights.png"><br>
 <span style="font-size:small; font-style: italic">Amiga Pixel Art: Winter Nights</span>
+<br><br>
+You can download the Amiga IFF file <a href="\assets\img\pixelart\amiga-pixelart-winternights.iff" target="_blank">here</a>.
