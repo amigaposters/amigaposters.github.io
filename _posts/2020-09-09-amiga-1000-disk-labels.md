@@ -12,4 +12,4 @@ These system disks had some eye catching labels that used the Amiga **double-tic
 <img src="\assets\img\post_previews\amiga-1000-system-disks-labels.jpg"><br>
 <span style="font-size:small; font-style: italic">Recreated Amiga 1000 system disks labels</span>
 <br><br>
-You can download the full resolution 600dpi ISO A4 size image in lossless PNG format <a href="https://app.box.com/s/hz4xv5vpowryzuho413zuiv601o4v4hd" target="_blank">here</a>.
+You can download the full resolution 600dpi ISO A4 size image in lossless PNG format <a href="https://app.box.com/s/xt7ikmvg5ioiva9mkh2eqkuqooeyq4dh" target="_blank">here</a>.
