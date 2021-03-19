@@ -5,7 +5,7 @@ lang: en
 categories: [Recreated, Labels]
 tags: []
 ---
-**Release 2** was a major update of AmigsOS that was initially introduced along the **Amiga 3000** in 1990. The 2.05 version was shipped with the **Amiga 600** and supported features such as the PCMCIA slot and its internal IDE interface. Also it was released as a stand alone update for all pre-AGA Amiga models.
+**Release 2** was a major update of AmigaOS that was initially introduced along the **Amiga 3000** in 1990. The 2.05 version was shipped with the **Amiga 600** and supported features such as the PCMCIA slot and its internal IDE interface. Also it was released as a stand alone update for all pre-AGA Amiga models.
 <br><br>
 My recreated set of labels covers the two different styles of v2.05 disk labels I have found in photos online.
 <br><br>

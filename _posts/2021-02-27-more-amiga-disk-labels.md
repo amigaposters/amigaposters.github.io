@@ -2,7 +2,7 @@
 layout: post
 title: More Amiga disk labels!
 lang: en
-categories: [Amiga 500, Amiga 1000, Amiga 2000, Own Creation, Labels]
+categories: [Amiga 500, Amiga 1000, Amiga 2000, Recreated, Labels]
 tags: []
 ---
 And here is another set Amiga disk labels for your pleasure!
