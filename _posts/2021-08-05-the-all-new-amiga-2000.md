@@ -2,7 +2,7 @@
 layout: post
 title: The all new Amiga 2000
 lang: en
-categories: [Amiga 2000, Original, Recreated, Posters]
+categories: [Amiga 2000, Original Commodore, Recreated, Posters]
 tags: []
 ---
 
