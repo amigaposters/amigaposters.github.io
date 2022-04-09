@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ballerina
+title: Amiga and the ballerina
 lang: en
 categories: [Amiga 1000, Own Creation, Posters]
 tags: []
