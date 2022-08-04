@@ -4,6 +4,8 @@ description: >
 baseurl: ""
 url: "http://amigaposters.github.io"
 
+timezone: Europe/Athens
+
 author:
   name: Vasilis Psomiadis
   email: vpsomiadis@-AT-@gmail.com
@@ -29,6 +31,4 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-paginate
-
-timezone: Europe/Athens
 
