@@ -30,3 +30,5 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+timezone: Europe/Athens
+
