@@ -2,7 +2,7 @@
 layout: post
 title: Christmas fun with CDTV wallpaper
 lang: en
-categories: [Own Creation, Wallpapers]
+categories: [Commodore CDTV, Own Creation, Wallpapers]
 tags: []
 ---
 Chistams eve... ‘Tis the season to celebrate!<br>

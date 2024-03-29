@@ -4,9 +4,9 @@ title: Donate!
 permalink: /donate/
 ---
 
-So, you have seen my work and you are absolutely loving those Amiga posters!
+So, you have seen my work and you are absolutely loving those crisp-looking Amiga posters!
 <br><br>
-You have downloaded some or all of them and you are already visualizing how beautiful they will look printed and framed in your retro corner! You are feeling grateful for those free hi-resolution posters and you want to express your appreciation to their creator.
+You have downloaded some (or all of them!) and you are already visualizing how beautiful they will look printed and framed in your retro corner! You are feeling grateful for those free hi-resolution posters and you want to express your appreciation to their creator.
 <br><br>
 Fear no more, as you have already done **the most significant part**: you are liking them and thinking on using them to decorate your walls. This is why I’ve created and shared them in the first place: **for everyone to enjoy them!**
 <br><br>

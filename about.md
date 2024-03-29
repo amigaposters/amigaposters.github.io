@@ -14,10 +14,10 @@ Either way, let’s take a trip down memory lane and recall the time when comput
 <br><br>
 A passionate Amiga owner since 1988.
 <br><br>
-<hr>
-NOTICE
+<hr><br>
+DISCLAIMER
 <br>
-*This website contains art work created by the author. Whenever a third party resource is used an appropriate reference is given (to the best of the author’s knowledge). I would appreciate it if you use any of the supplied images in other media (online or not) to include a reference to this website and the author. Commercial use of any of the material displayed on this site is not allowed without an explicit permission. All copyrighted material is property of its respective copyright holder.*
+*This website contains art work created by the author. Whenever a third party resource is used an appropriate reference is given (to the best of the author’s knowledge). All copyrighted material is property of its respective copyright holder.*
 <br><br>
 Thank you for visiting!
 
