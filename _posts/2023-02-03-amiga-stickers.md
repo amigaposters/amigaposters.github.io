@@ -17,3 +17,5 @@ You can download the vectors in pdf format here:<br><br>
  <a href="https://app.box.com/s/qrd1t1onqv4i5rsxvpgi6g6xj2mw0phl" target="_blank">AMIGA Computer Of The Year 1986 sticker</a>
  <br>
  <a href="https://app.box.com/s/sopqs8qh1zhvy4w1jmwthrix1z1ykjnh" target="_blank">Kiss me, AMIGA sticker</a>
+<br><br> 
+ If you would like to get ready-made high-quality printed stickers be sure to visit <a href="https://www.plakativ-druck.ch/shop/en/236-stickers" target="_blank">Plakativ Druck & Schrift</a>

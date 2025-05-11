@@ -12,4 +12,7 @@ These two versions of **AmigaOS** were the last ones released by Commodore for t
 <br><br>
 You can download the PDF file containing the complete disk labels set for AmigaOS v3.0 (created in lossless vector format) <a href="https://app.box.com/s/80yfx24ldxdpbg4wzcmjmpfqolwlt22b" target="_blank">here</a> and for v3.1 (also in vector format) <a href="https://app.box.com/s/f47vgzrd1kx64ybqwgl0ih7q2q7rg9a3" target="_blank">here</a>.
 <br><br>
-NOTICE: *Please note that these labels were recreated from scratch solely with the aim to help the community!*
+If you would like to get ready-made high-quality printed labels for your disks be sure to visit <a href="https://www.plakativ-druck.ch/shop/en/236-stickers" target="_blank">Plakativ Druck & Schrift</a>
+<br><br>
+**NOTICE**: *Please note that these labels were recreated from scratch solely with the aim to help the community!*
+

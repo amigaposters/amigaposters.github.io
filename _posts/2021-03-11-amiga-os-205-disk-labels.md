@@ -14,4 +14,6 @@ My recreated set of labels covers the two different styles of v2.05 disk labels 
 <br><br>
 You can download the PDF file containing the complete disk labels set for AmigaOS v2.05 (created in lossless vector format) <a href="https://app.box.com/s/p6co2tml2xcqy4awx5leh5evbi5ju3ms" target="_blank">here</a>.
 <br><br>
-NOTICE: *Please note that these labels were recreated from scratch solely with the aim to help the community!*
+If you would like to get ready-made high-quality printed labels for your disks be sure to visit <a href="https://www.plakativ-druck.ch/shop/en/236-stickers" target="_blank">Plakativ Druck & Schrift</a>
+<br><br>
+**NOTICE**: *Please note that these labels were recreated from scratch solely with the aim to help the community!*

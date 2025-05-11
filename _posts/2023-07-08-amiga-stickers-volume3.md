@@ -18,3 +18,5 @@ You can download the vectors in pdf format here:<br><br>
  <a href="https://app.box.com/s/1vwfzi77en2alma5r5rlmv8zoquejuhw" target="_blank">AMIGA 500 Skate Boarding sticker</a>
  <br>
  <a href="https://app.box.com/s/1pu2pryqhmi0vidd61jagvh0vxcn1wwk" target="_blank">AMIGA 500 Nea Art Limited Edition sticker</a>
+ <br><br> 
+ If you would like to get ready-made high-quality printed stickers be sure to visit <a href="https://www.plakativ-druck.ch/shop/en/236-stickers" target="_blank">Plakativ Druck & Schrift</a>

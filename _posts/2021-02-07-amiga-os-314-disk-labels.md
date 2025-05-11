@@ -16,4 +16,6 @@ Now you don't have an excuse not to write your disk images to a set of NOS doubl
 <br><br>
 You can download the PDF file containing the full labels set of AmigaOS 3.1.4 (created in lossless vector format) <a href="https://app.box.com/s/5dts9m5wyg47iu98v2tlzsuwkwlweore" target="_blank">here</a>.
 <br><br>
-NOTICE: *Please note that these labels were recreated from scratch based on the ones offered by some of the resellers, solely with the aim to help the community!*
+If you would like to get ready-made high-quality printed labels for your disks be sure to visit <a href="https://www.plakativ-druck.ch/shop/en/236-stickers" target="_blank">Plakativ Druck & Schrift</a>
+<br><br>
+**NOTICE**: *Please note that these labels were recreated from scratch solely with the aim to help the community!*

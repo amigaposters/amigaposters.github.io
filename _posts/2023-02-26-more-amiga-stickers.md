@@ -17,3 +17,5 @@ You can download the vectors in pdf format here:<br><br>
  <a href="https://app.box.com/s/4oubhfvy53ac06gaz5kltkgxmsnig0in" target="_blank">AMIGA FEVER sticker</a>
  <br>
  <a href="https://app.box.com/s/v2tea7c87q6mbc5qyemsn55pysnuvtdz" target="_blank">AMIGA 500 Computer Of The Year 1990 sticker</a>
+ <br><br> 
+ If you would like to get ready-made high-quality printed stickers be sure to visit <a href="https://www.plakativ-druck.ch/shop/en/236-stickers" target="_blank">Plakativ Druck & Schrift</a>
