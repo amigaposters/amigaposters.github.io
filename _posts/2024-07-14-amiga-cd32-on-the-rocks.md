@@ -2,7 +2,7 @@
 layout: post
 title: Amiga CD32 - On the rocks!
 lang: en
-categories: [Amiga CD32, Recreated, Poster]
+categories: [Amiga CD32, Recreated, Posters]
 tags: []
 ---
 Its autumn of 1992 and Amiga Format, UK's most popular Amiga-dedicated magazine, is doing a special supplement on the upcoming Commodore's Amiga-based console, the Amiga CD32. Now, a nice scan of this special issue was recently posted on the Commodore Amiga Facebook group and I when I marvelled at the cover photo I knew instantly it had to be added in my poster collection! So, I cleaned a bit the scanned image, played around with the colors and gave it some extra oomph to present you with another lovely A4 poster of the infamous Amiga CD32 console!
