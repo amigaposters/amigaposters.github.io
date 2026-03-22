@@ -2,7 +2,7 @@
 layout: post
 title: Only Amiga Makes It Possible!
 lang: en
-categories: [Amiga 500, Original Commodore, Posters]
+categories: [Amiga 500, Original Commodore, Recreated, Posters]
 tags: []
 ---
 In the late 1980s to early 1990s, Commodore introduced an alternative logo for the Amiga brand. According to available sources, this redesigned mark was used primarily on Amiga 500 packaging in North America and appeared also in a number of Commodore’s print advertisements of the period.

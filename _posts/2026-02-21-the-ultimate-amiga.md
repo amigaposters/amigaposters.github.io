@@ -2,7 +2,7 @@
 layout: post
 title: The Ultimate Amiga
 lang: en
-categories: [Amiga 3000T, Posters]
+categories: [Amiga 3000T, Recreated, Posters]
 tags: []
 ---
 In the August 1992 issue of Amiga World, Lou Wallace published an article about building a true “Ultimate Amiga.” The Amiga 3000T released in the US in fall 1991 was the obvious platform of choice, thanks to its serious expandability and its talent for hosting a ridiculous number of upgrades.
